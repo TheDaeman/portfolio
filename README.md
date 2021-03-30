@@ -135,4 +135,4 @@ Soporte técnico remoto y presencial en diversos sistemas operativos, redes, pro
 Manejo básico de bases de datos en SQL SERVER 2005 ,2008, 2008r2 configuración general. 
 
 ## Estar en contacto
-
+Esto último se agrego desde la cuanta de TheDaeman
